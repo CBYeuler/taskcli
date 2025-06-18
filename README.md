@@ -24,7 +24,7 @@ It lets you add and list tasks — with persistence using a local `tasks.json` f
 ## Installation
 
 
-git clone https://github.com/yourusername/taskcli.git
+git clone https://github.com/CBYeuler/taskcli.git
 cd taskcli
 go run main.go
 
